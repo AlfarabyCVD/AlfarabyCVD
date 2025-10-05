@@ -22,12 +22,8 @@
 
 ### 💬 Let's Connect  
 📫 **Reach me at:** [muhammadalfaraby23@gmail.com]  
-💼 **LinkedIn:** [
-  <a href="https://www.linkedin.com/in/muhammad-alfaraby-candra-8b0795383">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-</p>
-]  
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/muhammad-alfaraby-candra-8b0795383" target="_blank" style="color:#0A66C2; text-decoration:none; font-weight:bold;">LinkedIn</a>
+
 
 ![Muhammad Alfahraby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfarabyCVD&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfarabyCVD&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
