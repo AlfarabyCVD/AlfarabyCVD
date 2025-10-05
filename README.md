@@ -22,7 +22,7 @@
 
 ### 💬 Let's Connect  
 📫 **Reach me at:** [muhammadalfaraby23@gmail.com]  
-💼 **LinkedIn:** [<p align="center">
+💼 **LinkedIn:** [
   <a href="https://www.linkedin.com/in/muhammad-alfaraby-candra-8b0795383">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
